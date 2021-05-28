@@ -9,7 +9,7 @@ I actually tried making reels but there's a glaring problem: I am awkward. But I
 
 ## What would you even write about?
 
-I intend to write upon things that excite me, that make me think and everything in between. For starters I want to write on caste, on game development, on my life and experiences and about memes.
+I intend to write upon things that excite me, that make me think and everything in between. For starters I want to write on caste, on game development,books, on my life and experiences and about memes.
 
 ## Why should I read  your blog?
 
