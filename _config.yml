@@ -9,7 +9,7 @@ name: Blue Coat Dev
 description: Politics, Game Dev and everything in between.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: 
+avatar: ./Images/suit.jpg
 
 #
 # Flags below are optional
@@ -22,8 +22,8 @@ footer-links:
   facebook:
   flickr:
   github: r3dswitch
-  instagram:
-  linkedin:
+  instagram: https://www.instagram.com/redswitch100/
+  linkedin: https://www.linkedin.com/in/redswitch/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: sam_samrules
