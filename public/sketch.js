@@ -23,7 +23,7 @@ function setup() {
 }
 
 function draw() {
-  background(51);
+  background(255);
   for (let boid of flock) {
     boid.edges();
     boid.flock(flock);
