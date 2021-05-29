@@ -1,5 +1,6 @@
 let flock;
 var canvas;
+var offset = 0;
 
 function setup() {
   canvas = createCanvas(displayWidth, displayHeight);
@@ -13,6 +14,10 @@ function setup() {
     let b = new Boid(width / 2,height / 2);
     flock.addBoid(b);
   }
+}
+
+function mouseDragged(){
+	offset += (mouseY - pmouseY)/2;
 }
 
 function draw() {
@@ -120,7 +125,7 @@ Boid.prototype.render = function() {
   fill(127);
   stroke(200);
   push();
-  translate(this.position.x, this.position.y);
+  translate(this.position.x, this.position.y+ offset);
   rotate(theta);
   beginShape();
   vertex(0, -this.r * 2);
