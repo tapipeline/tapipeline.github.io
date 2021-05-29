@@ -1,6 +1,6 @@
 let flock;
 var canvas;
-var height = document.querySelector(".wrapper-masthead").offsetHeight;
+var height = 100px;
 
 function setup() {
   canvas = createCanvas(windowWidth, height);
@@ -23,7 +23,7 @@ function setup() {
 
 
 function windowResized() {
-  resizeCanvas(windowWidth, document.querySelector(".wrapper-masthead").offsetHeight);
+  resizeCanvas(windowWidth, height);
 }
 
 function draw() {
