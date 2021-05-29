@@ -6,6 +6,7 @@
 var inc = 0.1;
 var scl = 10;
 var cols, rows;
+var canvas;
 
 var zoff = 0;
 
@@ -16,7 +17,9 @@ var particles = [];
 var flowfield;
 
 function setup() {
-  createCanvas(windowWidth, windowHeight);
+  canvas = createCanvas(windowWidth, windowHeight);
+  canvas.position(0,0);
+  canvas.style('z-index','-1');
   colorMode(HSB, 255);
   cols = floor(width / scl);
   rows = floor(height / scl);
