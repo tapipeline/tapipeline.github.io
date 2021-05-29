@@ -1,6 +1,6 @@
 let flock;
 var canvas;
-var height = document.querySelector('heading').offsetHeight;
+var height = document.querySelector('.heading').offsetHeight;
 
 function setup() {
   canvas = createCanvas(windowWidth, height);
