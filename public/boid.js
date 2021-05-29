@@ -128,7 +128,7 @@ class Boid {
 
   show() {
     strokeWeight(8);
-    stroke(255);
+    stroke(0);
     point(this.position.x, this.position.y);
   }
 }
