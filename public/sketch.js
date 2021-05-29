@@ -7,11 +7,13 @@
 // https://editor.p5js.org/codingtrain/sketches/ry4XZ8OkN
 
 const flock = [];
+var canvas;
 
 let alignSlider, cohesionSlider, separationSlider;
 
 function setup() {
-  createCanvas(640, 360);
+  canvas = createCanvas(windowWidth, windowHeight);
+  canvas.style('z-index','-1');
   alignSlider = createSlider(0, 2, 1, 0.1);
   cohesionSlider = createSlider(0, 2, 1, 0.1);
   separationSlider = createSlider(0, 2, 1, 0.1);
