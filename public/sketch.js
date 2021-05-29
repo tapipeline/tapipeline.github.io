@@ -3,7 +3,7 @@ var canvas;
 var offset = 0;
 
 function setup() {
-  canvas = createCanvas(windowWidth, windowHeight);
+  canvas = createCanvas(windowWidth, windowHeight/4);
   canvas.position(0,0);
   canvas.style('z-index','-1');
   //createP("Drag the mouse to generate new boids.");
@@ -16,10 +16,10 @@ function setup() {
   }
 }
 
-function mouseWheel(event){
+/*function mouseWheel(event){
 	offset += event.delta;
   	canvas.translate(0,offset);
-}
+}*/
 
 
 function windowResized() {
