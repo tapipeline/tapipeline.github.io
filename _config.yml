@@ -9,7 +9,7 @@ name: Blue Coat Dev
 description: Politics, Game Dev and everything in between.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ./images/suit.jpg
+avatar: /images/suit.jpg
 
 #
 # Flags below are optional
