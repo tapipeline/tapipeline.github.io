@@ -13,7 +13,7 @@ let alignSlider, cohesionSlider, separationSlider;
 
 function setup() {
   canvas = createCanvas(windowWidth, windowHeight);
-  canvas.style('z-index','-1');
+  canvas.style('z-index','2');
   alignSlider = createSlider(0, 2, 1, 0.1);
   cohesionSlider = createSlider(0, 2, 1, 0.1);
   separationSlider = createSlider(0, 2, 1, 0.1);
