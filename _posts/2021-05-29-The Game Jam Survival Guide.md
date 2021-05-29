@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 # The Game Jam Survival Guide
 
