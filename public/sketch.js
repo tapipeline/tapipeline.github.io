@@ -2,7 +2,7 @@ let flock;
 var canvas;
 
 function setup() {
-  canvas = createCanvas(windowWidth, windowHeight);
+  canvas = createCanvas(displayWidth, displayHeight);
   canvas.position(0,0);
   canvas.style('z-index','-1');
   //createP("Drag the mouse to generate new boids.");
