@@ -32,11 +32,11 @@ function Particle() {
   };
 
   this.show = function() {
-    stroke(this.h, 255, 255, 25);
-    this.h = this.h + 1;
+    stroke(255, 255, 0, 25);
+    /*this.h = this.h + 1;
     if (this.h > 255) {
       this.h = 0;
-    }
+    }*/
     strokeWeight(1);
     line(this.pos.x, this.pos.y, this.prevPos.x, this.prevPos.y);
     this.updatePrev();
