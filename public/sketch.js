@@ -18,7 +18,7 @@ function setup() {
 
 function mouseWheel(event){
 	offset += event.delta;
-  	canvas.position.y += offset;
+  	canvas.translate(0,offset);
 }
 
 
