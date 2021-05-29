@@ -16,7 +16,7 @@ var particles = [];
 var flowfield;
 
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(width, height);
   colorMode(HSB, 255);
   cols = floor(width / scl);
   rows = floor(height / scl);
@@ -27,7 +27,7 @@ function setup() {
   for (var i = 0; i < 300; i++) {
     particles[i] = new Particle();
   }
-  background(51);
+  background(255);
 }
 
 function draw() {
