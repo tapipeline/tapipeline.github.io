@@ -5,7 +5,7 @@ function setup() {
   canvas = createCanvas(windowWidth, windowHeight);
   canvas.position(0,0);
   canvas.style('z-index','-1');
-  createP("Drag the mouse to generate new boids.");
+  //createP("Drag the mouse to generate new boids.");
 
   flock = new Flock();
   // Add an initial set of boids into the system
@@ -21,9 +21,9 @@ function draw() {
 }
 
 // Add a new boid into the System
-function mouseDragged() {
+/*function mouseDragged() {
   flock.addBoid(new Boid(mouseX, mouseY));
-}
+}*/
 
 // The Nature of Code
 // Daniel Shiffman
