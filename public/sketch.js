@@ -18,6 +18,7 @@ function setup() {
 
 function mouseWheel(event){
 	offset += event.delta;
+  	canvas.position.y += offset;
 }
 
 
@@ -130,7 +131,7 @@ Boid.prototype.render = function() {
   fill(127);
   stroke(200);
   push();
-  translate(this.position.x, this.position.y+ offset);
+  translate(this.position.x, this.position.y);
   rotate(theta);
   beginShape();
   vertex(0, -this.r * 2);
