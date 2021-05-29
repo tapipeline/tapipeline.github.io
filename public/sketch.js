@@ -1,8 +1,9 @@
 let flock;
 var canvas;
+var height = document.querySelector('heading').offsetHeight;
 
 function setup() {
-  canvas = createCanvas(windowWidth, windowHeight/5);
+  canvas = createCanvas(windowWidth, height);
   canvas.position(0,0);
   canvas.style('z-index','-1');
   //createP("Drag the mouse to generate new boids.");
@@ -22,7 +23,7 @@ function setup() {
 
 
 function windowResized() {
-  resizeCanvas(windowWidth, windowHeight/5);
+  resizeCanvas(windowWidth, document.querySelector('heading').offsetHeight);
 }
 
 function draw() {
