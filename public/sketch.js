@@ -3,7 +3,7 @@ var canvas;
 var offset = 0;
 
 function setup() {
-  canvas = createCanvas(displayWidth, displayHeight);
+  canvas = createCanvas(windowWidth, windowHeight);
   canvas.position(0,0);
   canvas.style('z-index','-1');
   //createP("Drag the mouse to generate new boids.");
@@ -16,8 +16,13 @@ function setup() {
   }
 }
 
-function mouseDragged(){
-	offset += (mouseY - pmouseY)/2;
+function mouseWheel(event){
+	offset += event.delta;
+}
+
+
+function windowResized() {
+  resizeCanvas(windowWidth, windowHeight);
 }
 
 function draw() {
