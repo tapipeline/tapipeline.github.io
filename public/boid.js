@@ -127,8 +127,9 @@ class Boid {
   }
 
   show() {
-    strokeWeight(8);
+    strokeWeight(2);
     stroke(0);
-    point(this.position.x, this.position.y);
+    triangle(this.position.x, this.position.y, this.position.x+1, this.position.y-1, this.position.x-1, this.position.y-1)
+    //point(this.position.x, this.position.y);
   }
 }
