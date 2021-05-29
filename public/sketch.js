@@ -1,6 +1,6 @@
 let flock;
 var canvas;
-var height = windowHeight;
+const height = windowHeight;
 
 function setup() {
   canvas = createCanvas(windowWidth, height);
