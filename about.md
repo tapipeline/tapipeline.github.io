@@ -13,6 +13,8 @@ We regularly publish legal articles analyzing the major issues in the pipeline w
 
 TAP is a great platform for law students to connect with the best related to the oil and gas sector.
 
+## Our Team
+
 <style>
 	 /* Three columns side by side */
 .column {
@@ -164,6 +166,14 @@ TAP is a great platform for law students to connect with the best related to the
   </div> 
 
 
+
+              
+              
+              
+              
+              
+              
+              
 ## Collaborator: African Network of Young Leaders for Peace and Sustainable Development
 
 The African Network of Young Leaders for Peace and Sustainable Development (ANYL4PSD) is a pan African platform based on the principles of voluntary service, solidarity, the common good, and human dignity. ANYL4PSD is implementing across Africa several programs with youth and civil society organizations and networks with the ultimate aim to achieve ecosystem restoration. 
