@@ -1,19 +1,8 @@
 ---
 layout: post
-title: Why am I writing a blog?
+title: 'Welcome to The [A]political Pipeline'
 published: true
 ---
-## Why blog in 2021?
-I actually tried making social content but there's a glaring problem: I am awkward. But I did have a lot of thoughts that I just wanted to document somewhere and a blog seems like one of the things that would also help me become better at writing and articulating my thoughts.
+The [A]political Pipeline is an international forum for dialogue and reflection on how the major pipelines in the world have a significant influence on international affairs and international law. We provide maritime news and blogs. We also post international, and a few select national fellowships, internships, calls for papers, and much more for students who want international exposure!
 
-## What would you even write about?
-
-I intend to write upon things that excite me, that make me think and everything in between. For starters I want to write on caste, on game development,books, on my life and experiences and about memes.
-
-## Why should I read  your blog?
-
-Maybe you'll like it, maybe you'll hate it or worse maybe you'll have no feelings about it. Either way you might come across new ideas and who knows, maybe you'll develop on those ideas and change the world.
-
-## How many posts a week?
-
-I'm pledging 2 a week, what I deliver we'll both have to see.
+All important links <a href="">here</a>!
