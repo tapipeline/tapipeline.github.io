@@ -19,14 +19,14 @@ avatar: /images/tap.jpg
 footer-links:
   dribbble:
   email: tapipelines@gmail.com
-  facebook: https://www.facebook.com/apolitical.pipeline
+  facebook: apolitical.pipeline
   flickr:
   github:
-  instagram: https://www.instagram.com/tapipeline/
-  linkedin: https://www.linkedin.com/in/the-a-political-pipeline-234386200/
+  instagram: tapipeline
+  linkedin: the-a-political-pipeline-234386200
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: https://twitter.com/IUndergraduates?s=08
+  twitter: IUndergraduates
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
