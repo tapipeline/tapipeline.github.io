@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 published: true
 ---
-<img src="/images/pipeline.png" alt="Pipeline" align="left">
+<style> img {width: 40%;height: auto;}<img src="/images/pipeline.png" alt="Pipeline" align="left"></style>
 <div>
 <p align="right">
 <h2>What do we do?</h2>
