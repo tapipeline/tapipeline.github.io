@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 published: true
 ---
-<style> img {width: 40%;height: auto;}<img src="/images/pipeline.png" alt="Pipeline" align="left"></style>
 <div>
+<style> img {width: 40%;height: auto;}<img src="/images/pipeline.png" alt="Pipeline" align="left"></style>
 <p align="right">
 <h2>What do we do?</h2>
 
@@ -16,6 +16,7 @@ We regularly publish legal articles analyzing the major issues in the pipeline w
 TAP is a great platform for law students to connect with the best related to the oil and gas sector.
 </p>
 </div>
+<br><br><br><br><br><br><br><br>
 
 ## Collaborator: African Network of Young Leaders for Peace and Sustainable Development
 
