@@ -27,7 +27,7 @@ TAP is a great platform for law students to connect with the best related to the
                 align-items-center 
                 justify-content-center d-flex"
             style="min-height: 100vh; 
-            background-color: #498433;">
+            background-color: #E8E8E8;">
   
         <!-- Row for the card-->
         <div class="row w-100 p-0 w-0">
