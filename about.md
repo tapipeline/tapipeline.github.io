@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 published: true
 ---
-![]({{site.baseurl}}/images/pipeline.png)
+<img src="images/pipeline.png" alt="Pipeline" align="left">
 
 <p align="right">
 <h2>What do we do?</h2>
