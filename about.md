@@ -110,6 +110,19 @@ TAP is a great platform for law students to connect with the best related to the
     </div>
   </div>
         
+        <div class="column">
+    <div class="card">
+      <img src="/images/nishant.webp" alt="Mike" style="width:100%">
+      <div class="container">
+        <h2>Mike Ross</h2>
+        <p class="title">Art Director</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>example@example.com</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+        
          <div class="row">
   <div class="column">
     <div class="card">
