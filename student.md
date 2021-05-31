@@ -2,9 +2,11 @@
   {% for post in site.posts %}
     <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      
 
       <div class="entry">
+        <img src="{{ post.image }}">
+        <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
         {{ post.excerpt }}
       </div>
 
