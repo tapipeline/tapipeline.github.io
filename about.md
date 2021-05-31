@@ -6,7 +6,7 @@ published: true
 ---
 <div>
   <style> img {width: 40%;height: auto; margin-left: auto;}
-    	  p {margin-right: auto;}
+    	  p {margin-left: 10px;}
   </style>
   <img src="/images/pipeline.png" alt="Pipeline" align="left">
 <p>
