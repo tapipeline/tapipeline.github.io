@@ -4,9 +4,12 @@ title: About
 permalink: /about/
 published: true
 ---
-<style> img {width: 40%;height: auto;}<img src="/images/pipeline.png" alt="Pipeline" align="left"></style>
 <div>
-<p align="right">
+  <style> img {width: 40%;height: auto; margin-left: auto;}
+    	  p {margin-right: auto;}
+  </style>
+  <img src="/images/pipeline.png" alt="Pipeline" align="left">
+<p>
 <h2>What do we do?</h2>
 
 TAP aims to provide you with the latest insights in the pipeline industry, and how politics and international relations control chunks of metal between countries!
