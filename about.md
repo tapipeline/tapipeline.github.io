@@ -122,7 +122,7 @@ TAP is a great platform for law students to connect with the best related to the
           <div class="col-lg-4 mb-2">
                 <div class="card  mx-auto" style="width:18rem;">
                     <img class="card-img-top" src=
-"images/rishi.webp"
+"/images/rishi.webp"
                             alt="Rishi Tutu">
   
                     <div class="card-body">
