@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 <div>
-  <style> img {width: 40%;height: auto; margin-left: auto;}
+  <style> img {width: 40%;height: auto; margin-left: auto; padding: 20px;}
     	  p {margin-left: 10px;}
   </style>
   <img src="/images/pipeline.png" alt="Pipeline" align="left">
