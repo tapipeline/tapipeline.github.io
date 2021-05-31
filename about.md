@@ -15,156 +15,122 @@ TAP is a great platform for law students to connect with the best related to the
 
 ## Our Team
 
-<style>
-	 /* Three columns side by side */
-.column {
-  float: left;
-  width: 33.3%;
-  height: 100px;
-  margin-bottom: 16px;
-  padding: 0 8px;
-}
 
-/* Display the columns below each other instead of side by side on small screens */
-@media screen and (max-width: 650px) {
-  .column {
-    width: 100%;
-    display: block;
-  }
-}
+<head><link rel="stylesheet" href=
+"https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity=
+"sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+        crossorigin="anonymous"></head>
 
-/* Add some shadows to create a card effect */
-.card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-}
-
-/* Some left and right padding inside the container */
-.container {
-  padding: 0 16px;
-}
-
-/* Clear floats */
-.container::after, .row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
-.title {
-  color: grey;
-}
-
-.button {
-  border: none;
-  outline: 0;
-  display: inline-block;
-  padding: 8px;
-  color: white;
-  background-color: #000;
-  text-align: center;
-  cursor: pointer;
-  width: 100%;
-}
-
-.button:hover {
-  background-color: #555;
-} 
-</style>
-
- <div class="row">
-  <div class="column">
-    <div class="card">
-      <img src="/images/diksha.webp" alt="Jane" style="width:100%">
-      <div class="container">
-        <h2>Jane Doe</h2>
-        <p class="title">CEO &amp; Founder</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
-      </div>
+<body>
+    <div class="container-fluid p-0 m-0 
+                align-items-center 
+                justify-content-center d-flex"
+            style="min-height: 100vh; 
+            background-color: #498433;">
+  
+        <!-- Row for the card-->
+        <div class="row w-100 p-0 w-0">
+  
+            <!-- Column for card-->
+            <div class="col-lg-4 mb-2">
+                <div class="card mx-auto" style="width:18rem;">
+                    <img class="card-img-top" src=
+"https://media.geeksforgeeks.org/wp-content/uploads/20200529212604/geeks.png"
+                                alt="Card image cap">
+  
+                    <div class="card-body">
+                        <h5 class="card-title">
+                            Geeks for Geeks
+                        </h5>
+                        <p class="card-text">
+                            Geeks for Geeks is the best place 
+                            to improve your computer science
+                            knowledge.
+                        </p>
+  
+                          
+                        <a href="#" class="btn btn-success">
+                            Click me
+                        </a>
+                    </div>
+                </div>
+            </div>
+  
+            <!-- Another column for card -->
+            <div class="col-lg-4 mb-2">
+                <div class="card  mx-auto" style="width:18rem;">
+                    <img class="card-img-top" src=
+"https://media.geeksforgeeks.org/wp-content/uploads/20200529212604/geeks.png"
+                                alt="Card image cap">
+  
+                    <div class="card-body">
+                        <h5 class="card-title">
+                            Geeks for Geeks
+                        </h5>
+  
+                        <p class="card-text">
+                            Geeks for Geeks is the best place 
+                            to improve your computer science
+                            knowledge.
+                        </p>
+  
+  
+                        <a href="#" class="btn btn-success">
+                            Click me
+                        </a>
+                    </div>
+                </div>
+            </div>
+  
+            <!-- Another column for card -->
+            <div class="col-lg-4 mb-2">
+                <div class="card  mx-auto" style="width:18rem;">
+                    <img class="card-img-top" src=
+"https://media.geeksforgeeks.org/wp-content/uploads/20200529212604/geeks.png"
+                            alt="Card image cap">
+  
+                    <div class="card-body">
+                        <h5 class="card-title">
+                            Geeks for Geeks
+                        </h5>
+  
+                        <p class="card-text">
+                            Geeks for Geeks is the best place 
+                            to improve your computer science
+                            knowledge.
+                        </p>
+  
+  
+                        <a href="#" class="btn btn-success">
+                            Click me
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
-  </div>
-
-   <div class="row">
-  <div class="column">
-    <div class="card">
-      <img src="/images/tirtha.jpg" alt="Jane" style="width:100%">
-      <div class="container">
-        <h2>Jane Doe</h2>
-        <p class="title">CEO &amp; Founder</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
-      </div>
-    </div>
-  </div>
-     
-      <div class="row">
-  <div class="column">
-    <div class="card">
-      <img src="/images/joel.jpg" alt="Jane" style="width:100%">
-      <div class="container">
-        <h2>Jane Doe</h2>
-        <p class="title">CEO &amp; Founder</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
-      </div>
-    </div>
-  </div>
-        
-        <div class="column">
-    <div class="card">
-      <img src="/images/nishant.webp" alt="Mike" style="width:100%">
-      <div class="container">
-        <h2>Mike Ross</h2>
-        <p class="title">Art Director</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
-      </div>
-    </div>
-  </div>
-        
-         <div class="row">
-  <div class="column">
-    <div class="card">
-      <img src="/images/rishi.webp" alt="Jane" style="width:100%">
-      <div class="container">
-        <h2>Jane Doe</h2>
-        <p class="title">CEO &amp; Founder</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
-      </div>
-    </div>
-  </div>
-            <div class="row">
-  <div class="column">
-    <div class="card">
-      <img src="/images/raj.jpg" alt="Jane" style="width:100%">
-      <div class="container">
-        <h2>Jane Doe</h2>
-        <p class="title">CEO &amp; Founder</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
-      </div>
-    </div>
-  </div>
-              
-  <div class="column">
-    <div class="card">
-      <img src="/images/uma.webp" alt="Mike" style="width:100%">
-      <div class="container">
-        <h2>Mike Ross</h2>
-        <p class="title">Art Director</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
-      </div>
-    </div>
-  </div> 
+  
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+        integrity=
+"sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        crossorigin="anonymous">
+    </script>
+      
+    <script src=
+"https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+        integrity=
+"sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+        crossorigin="anonymous">
+    </script>
+      
+    <script src=
+"https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+        integrity=
+"sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        crossorigin="anonymous">
+    </script>
+</body>
 
 
 
