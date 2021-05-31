@@ -36,22 +36,20 @@ TAP is a great platform for law students to connect with the best related to the
             <div class="col-lg-4 mb-2">
                 <div class="card mx-auto" style="width:18rem;">
                     <img class="card-img-top" src=
-"https://media.geeksforgeeks.org/wp-content/uploads/20200529212604/geeks.png"
-                                alt="Card image cap">
+"/images/diksha.webp"
+                                alt="Deeksha Sharma">
   
                     <div class="card-body">
                         <h5 class="card-title">
-                            Geeks for Geeks
+                            Deeksha Sharma
                         </h5>
                         <p class="card-text">
-                            Geeks for Geeks is the best place 
-                            to improve your computer science
-                            knowledge.
+                            Founder
                         </p>
   
                           
-                        <a href="#" class="btn btn-success">
-                            Click me
+                        <a href="https://www.linkedin.com/in/deeksha-sharma-1bb454166/" class="btn btn-success">
+                            Linkedin
                         </a>
                     </div>
                 </div>
@@ -61,23 +59,21 @@ TAP is a great platform for law students to connect with the best related to the
             <div class="col-lg-4 mb-2">
                 <div class="card  mx-auto" style="width:18rem;">
                     <img class="card-img-top" src=
-"https://media.geeksforgeeks.org/wp-content/uploads/20200529212604/geeks.png"
+"/images/tirtha.jpg"
                                 alt="Card image cap">
   
                     <div class="card-body">
                         <h5 class="card-title">
-                            Geeks for Geeks
+                            Tirtharaj Choudhury
                         </h5>
   
                         <p class="card-text">
-                            Geeks for Geeks is the best place 
-                            to improve your computer science
-                            knowledge.
+                            Founder
                         </p>
   
   
-                        <a href="#" class="btn btn-success">
-                            Click me
+                        <a href="https://www.linkedin.com/in/tirtharaj-choudhury-bba995117/" class="btn btn-success">
+                            Linkedin
                         </a>
                     </div>
                 </div>
@@ -87,23 +83,38 @@ TAP is a great platform for law students to connect with the best related to the
             <div class="col-lg-4 mb-2">
                 <div class="card  mx-auto" style="width:18rem;">
                     <img class="card-img-top" src=
-"https://media.geeksforgeeks.org/wp-content/uploads/20200529212604/geeks.png"
-                            alt="Card image cap">
+"/images/joel.jpg"
+                            alt="Mr. Joel Eboa">
   
                     <div class="card-body">
                         <h5 class="card-title">
-                            Geeks for Geeks
+                            Mr. Joel Eboa
                         </h5>
   
                         <p class="card-text">
-                            Geeks for Geeks is the best place 
-                            to improve your computer science
-                            knowledge.
+                            Secretary, African Network of Young Leaders for Peace and Sustainable Development
+                      </p>
+                    </div>
+                </div>
+            </div>
+          <div class="col-lg-4 mb-2">
+                <div class="card  mx-auto" style="width:18rem;">
+                    <img class="card-img-top" src=
+"/images/nishant.webp"
+                            alt="Nishant Tiwari">
+  
+                    <div class="card-body">
+                        <h5 class="card-title">
+                            Nishant Tiwari
+                        </h5>
+  
+                        <p class="card-text">
+                            Editor
                         </p>
   
   
-                        <a href="#" class="btn btn-success">
-                            Click me
+                        <a href="https://www.linkedin.com/in/nishant-tiwari-b86a49145/" class="btn btn-success">
+                            Linkedin
                         </a>
                     </div>
                 </div>
@@ -111,23 +122,21 @@ TAP is a great platform for law students to connect with the best related to the
           <div class="col-lg-4 mb-2">
                 <div class="card  mx-auto" style="width:18rem;">
                     <img class="card-img-top" src=
-"https://media.geeksforgeeks.org/wp-content/uploads/20200529212604/geeks.png"
-                            alt="Card image cap">
+"images/rishi.webp"
+                            alt="Rishi Tutu">
   
                     <div class="card-body">
                         <h5 class="card-title">
-                            Geeks for Geeks
+                            Rishi Tutu
                         </h5>
   
                         <p class="card-text">
-                            Geeks for Geeks is the best place 
-                            to improve your computer science
-                            knowledge.
+                            Editor
                         </p>
   
   
-                        <a href="#" class="btn btn-success">
-                            Click me
+                        <a href="https://www.linkedin.com/in/rishi-tutu-65b010157/" class="btn btn-success">
+                            Linkedin
                         </a>
                     </div>
                 </div>
@@ -135,23 +144,21 @@ TAP is a great platform for law students to connect with the best related to the
           <div class="col-lg-4 mb-2">
                 <div class="card  mx-auto" style="width:18rem;">
                     <img class="card-img-top" src=
-"https://media.geeksforgeeks.org/wp-content/uploads/20200529212604/geeks.png"
-                            alt="Card image cap">
+"/images/raj.jpg"
+                            alt="Raj Aryan">
   
                     <div class="card-body">
                         <h5 class="card-title">
-                            Geeks for Geeks
+                            Raj Aryan
                         </h5>
   
                         <p class="card-text">
-                            Geeks for Geeks is the best place 
-                            to improve your computer science
-                            knowledge.
+                            Editor
                         </p>
   
   
-                        <a href="#" class="btn btn-success">
-                            Click me
+                        <a href="https://www.linkedin.com/in/raj-aryan-34a14b169/" class="btn btn-success">
+                            Linkedin
                         </a>
                     </div>
                 </div>
@@ -159,47 +166,21 @@ TAP is a great platform for law students to connect with the best related to the
           <div class="col-lg-4 mb-2">
                 <div class="card  mx-auto" style="width:18rem;">
                     <img class="card-img-top" src=
-"https://media.geeksforgeeks.org/wp-content/uploads/20200529212604/geeks.png"
-                            alt="Card image cap">
+"/images/uma.webp"
+                            alt="Umadevi Achari">
   
                     <div class="card-body">
                         <h5 class="card-title">
-                            Geeks for Geeks
+                            Umadevi Achari
                         </h5>
   
                         <p class="card-text">
-                            Geeks for Geeks is the best place 
-                            to improve your computer science
-                            knowledge.
+                            Editor
                         </p>
   
   
-                        <a href="#" class="btn btn-success">
-                            Click me
-                        </a>
-                    </div>
-                </div>
-            </div>
-          <div class="col-lg-4 mb-2">
-                <div class="card  mx-auto" style="width:18rem;">
-                    <img class="card-img-top" src=
-"https://media.geeksforgeeks.org/wp-content/uploads/20200529212604/geeks.png"
-                            alt="Card image cap">
-  
-                    <div class="card-body">
-                        <h5 class="card-title">
-                            Geeks for Geeks
-                        </h5>
-  
-                        <p class="card-text">
-                            Geeks for Geeks is the best place 
-                            to improve your computer science
-                            knowledge.
-                        </p>
-  
-  
-                        <a href="#" class="btn btn-success">
-                            Click me
+                        <a href="https://www.linkedin.com/in/umadevi-achari-2b6519189/" class="btn btn-success">
+                            Linkedin
                         </a>
                     </div>
                 </div>
