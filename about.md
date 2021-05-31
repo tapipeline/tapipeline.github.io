@@ -20,6 +20,7 @@ TAP is a great platform for law students to connect with the best related to the
 .column {
   float: left;
   width: 33.3%;
+  height: 100px;
   margin-bottom: 16px;
   padding: 0 8px;
 }
