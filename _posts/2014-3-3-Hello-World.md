@@ -3,9 +3,8 @@ layout: post
 title: Why am I writing a blog?
 published: true
 ---
-## Why blog in 2021? Can't you just make reels and aesthetic images like the rest of us?
-
-I actually tried making reels but there's a glaring problem: I am awkward. But I did have a lot of thoughts that I just wanted to document somewhere and a blog seems like one of the things that would also help me become better at writing and articulating my thoughts.
+## Why blog in 2021?
+I actually tried making social content but there's a glaring problem: I am awkward. But I did have a lot of thoughts that I just wanted to document somewhere and a blog seems like one of the things that would also help me become better at writing and articulating my thoughts.
 
 ## What would you even write about?
 
