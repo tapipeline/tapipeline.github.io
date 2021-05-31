@@ -4,27 +4,14 @@ title: About
 permalink: /about/
 published: true
 ---
-<div>
-  <style> img {width: 40%;height: auto; margin-left: auto; padding: 20px;}
-    	  p {margin-left: 10px;}
-  </style>
-  <img src="/images/pipeline.png" alt="Pipeline" align="left">
-<p>
-<h2>What do we do?</h2>
+
+## What do we do?
 
 TAP aims to provide you with the latest insights in the pipeline industry, and how politics and international relations control chunks of metal between countries!
-<br><br>
+
 We regularly publish legal articles analyzing the major issues in the pipeline world, while making the information accessible to those from a non-law background as well. 
-<br><br>
+
 TAP is a great platform for law students to connect with the best related to the oil and gas sector.
-</p>
-</div>
-
-
-
-
-
-
 
 
 ## Collaborator: African Network of Young Leaders for Peace and Sustainable Development
