@@ -108,6 +108,102 @@ TAP is a great platform for law students to connect with the best related to the
                     </div>
                 </div>
             </div>
+          <div class="col-lg-4 mb-2">
+                <div class="card  mx-auto" style="width:18rem;">
+                    <img class="card-img-top" src=
+"https://media.geeksforgeeks.org/wp-content/uploads/20200529212604/geeks.png"
+                            alt="Card image cap">
+  
+                    <div class="card-body">
+                        <h5 class="card-title">
+                            Geeks for Geeks
+                        </h5>
+  
+                        <p class="card-text">
+                            Geeks for Geeks is the best place 
+                            to improve your computer science
+                            knowledge.
+                        </p>
+  
+  
+                        <a href="#" class="btn btn-success">
+                            Click me
+                        </a>
+                    </div>
+                </div>
+            </div>
+          <div class="col-lg-4 mb-2">
+                <div class="card  mx-auto" style="width:18rem;">
+                    <img class="card-img-top" src=
+"https://media.geeksforgeeks.org/wp-content/uploads/20200529212604/geeks.png"
+                            alt="Card image cap">
+  
+                    <div class="card-body">
+                        <h5 class="card-title">
+                            Geeks for Geeks
+                        </h5>
+  
+                        <p class="card-text">
+                            Geeks for Geeks is the best place 
+                            to improve your computer science
+                            knowledge.
+                        </p>
+  
+  
+                        <a href="#" class="btn btn-success">
+                            Click me
+                        </a>
+                    </div>
+                </div>
+            </div>
+          <div class="col-lg-4 mb-2">
+                <div class="card  mx-auto" style="width:18rem;">
+                    <img class="card-img-top" src=
+"https://media.geeksforgeeks.org/wp-content/uploads/20200529212604/geeks.png"
+                            alt="Card image cap">
+  
+                    <div class="card-body">
+                        <h5 class="card-title">
+                            Geeks for Geeks
+                        </h5>
+  
+                        <p class="card-text">
+                            Geeks for Geeks is the best place 
+                            to improve your computer science
+                            knowledge.
+                        </p>
+  
+  
+                        <a href="#" class="btn btn-success">
+                            Click me
+                        </a>
+                    </div>
+                </div>
+            </div>
+          <div class="col-lg-4 mb-2">
+                <div class="card  mx-auto" style="width:18rem;">
+                    <img class="card-img-top" src=
+"https://media.geeksforgeeks.org/wp-content/uploads/20200529212604/geeks.png"
+                            alt="Card image cap">
+  
+                    <div class="card-body">
+                        <h5 class="card-title">
+                            Geeks for Geeks
+                        </h5>
+  
+                        <p class="card-text">
+                            Geeks for Geeks is the best place 
+                            to improve your computer science
+                            knowledge.
+                        </p>
+  
+  
+                        <a href="#" class="btn btn-success">
+                            Click me
+                        </a>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
   
