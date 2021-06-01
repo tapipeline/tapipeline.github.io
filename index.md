@@ -2,18 +2,14 @@
 layout: default
 published: true
 ---
-<div class="kv-background-inner " data-image="background-image: url('https://images.builderservices.io/s/cdn/v1.0/i/m?url=https%3A%2F%2Fstorage.googleapis.com%2Fproduction-bigrock-v1-0-4%2F064%2F700064%2FrtLr3UJI%2F01177b07ecce4892aedc9b5906d6a502&amp;methods=resize%2C2000%2C5000');" style="
-        background-image: url('https://images.builderservices.io/s/cdn/v1.0/i/m?url=https%3A%2F%2Fstorage.googleapis.com%2Fproduction-bigrock-v1-0-4%2F064%2F700064%2FrtLr3UJI%2F01177b07ecce4892aedc9b5906d6a502&amp;methods=resize%2C2000%2C5000');
-        
-        
-        background-color: rgb(80,80,80);
-        opacity: 0.5;"></div>
 
-# Welcome to The [A]political Pipeline
+<div style="background-image: url('/images/pipeline.jpg');">
+  <h1> Welcome to The [A]political Pipeline </h1>
 
 The [A]political Pipeline is an international forum for dialogue and reflection on how the major pipelines in the world have a significant influence on international affairs and international law. We provide maritime news and blogs. We also post international, and a few select national fellowships, internships, calls for papers, and much more for students who want international exposure!
 
 All important links <a href="https://linktr.ee/tapipeline">here</a>!
+</div>
 
 # International Campus Ambassador Programme
 
