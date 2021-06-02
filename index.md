@@ -2,8 +2,11 @@
 layout: default
 published: true
 ---
-
-<div style="background-image: url('/images/pipeline.jpg');"height= 70%;>
+<style>div {
+  height: 70%;
+  width: 100%;
+}</style>
+<div style="background-image: url('/images/pipeline.jpg');">
   <h1> Welcome to The [A]political Pipeline </h1>
 
 The [A]political Pipeline is an international forum for dialogue and reflection on how the major pipelines in the world have a significant influence on international affairs and international law. We provide maritime news and blogs. We also post international, and a few select national fellowships, internships, calls for papers, and much more for students who want international exposure!
