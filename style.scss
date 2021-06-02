@@ -73,16 +73,16 @@ p {
 }
 
 a {
-  color: Green;
+  color: #00CC33;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: Green;
   }
 }
 
 a:visited {
-  color: green;
+  color: #00CC33;
 }
 
 ul, ol {
