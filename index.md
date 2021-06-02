@@ -2,10 +2,6 @@
 layout: default
 published: true
 ---
-<style>div {
-  height: 70%;
-  width: 100%;
-}</style>
 <div style="background-image: url('/images/pipeline.jpg');">
   <h1> Welcome to The [A]political Pipeline </h1>
 
