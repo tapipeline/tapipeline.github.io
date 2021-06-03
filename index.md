@@ -2,16 +2,6 @@
 layout: default
 published: true
 ---
-<style>
-div {
-  height: 100%;
-  width: 100%;
-
-  /* example padding, font-size, background, etc */
-  padding: 10px;
-  font-size: 20px;
-}
-</style>
 <div style="background-image: url('/images/pipeline.jpg');">
   <h1 style=""> Welcome to The [A]political Pipeline </h1>
 
